@@ -5,6 +5,7 @@
   <artifactId>Maven_Simple_WebApp</artifactId>
   <packaging>war</packaging>
   <name>Maven_Simple_WebApp</name>
+  <version>1.0</version>
   <url>https://github.com/SarathaNatraj/Maven_Simple_WebApp</url>
   <build>
     <finalName>Maven_Simple_WebApp</finalName>
